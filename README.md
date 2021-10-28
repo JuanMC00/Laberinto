@@ -1,4 +1,4 @@
-# Aplicacón Laberinto
+# Aplicación Laberinto
 Práctica de la asignatura de Sistemas Inteligentes
 Facultad: Escuela Superior de Informática (Ciudad Real) </br>
 Universidad: Universidad de Castilla-La Mancha </br>
