@@ -4,8 +4,6 @@ Facultad: Escuela Superior de Informática (Ciudad Real) </br>
 Universidad: Universidad de Castilla-La Mancha </br>
 
 ## Descripción:
-Incluye todo el código para la correcta ejecución de la aplicación. </br>
-
 Consiste en una aplicación de escritorio que tiene varias opciones: </br>
 1. Visualizar un laberinto existente (definido en formato json): </br>
 ![Laberinto_B1_2_10x10](https://user-images.githubusercontent.com/72213915/139249784-2ac78d87-e1ca-4d3a-88ca-2e0d7315223a.jpg)
@@ -17,6 +15,10 @@ Consiste en una aplicación de escritorio que tiene varias opciones: </br>
 ![SOLUCION_Laberinto_B1_2_10x10_A_](https://user-images.githubusercontent.com/72213915/139251278-98179d1e-ca99-4dcf-8400-e27f8c3dceac.jpg)
 4. Crear problema. Tambien podemos crear un problema seleccionando un laberinto previamente creado y definiendo un casilla de inicio y otra de fin. El problema será guardado en formato json. A continuación, tienes la opción de resolverlo con cualqueira de los métodos anteriores.
 5. Salir de la aplicación.
+
+## Contenido:
+Incluye todo el código para la correcta ejecución de la aplicación. </br>
+[Memoria de la práctica](https://drive.google.com/file/d/1eIot5nhYHe5qElKx9SEXnwaqkQrgxsTd/view?usp=sharing)
 
 
 ## Tecnologías:
